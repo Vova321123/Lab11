@@ -1,0 +1,12 @@
+# ninja log v5
+1	913	7228023129113837	CMakeFiles/Lab11.dir/main.cpp.obj	11dcb27cb18cd8d6
+4	618	7228023919413510	CMakeFiles/Lab11.dir/1.10.cpp.obj	c179837266afc306
+5	648	7228027714716278	CMakeFiles/Lab11.dir/2.10.cpp.obj	bf5b4a4c750e6ce6
+5	855	7228030781024025	CMakeFiles/Lab11.dir/3.10.1.cpp.obj	da4980a92ff7a37e
+4	763	7228033389432682	CMakeFiles/Lab11.dir/3.10.2.cpp.obj	16b9633cc07e3f70
+4	701	7228048144711703	CMakeFiles/Lab11.dir/3.10.3.cpp.obj	7b6aae2ca16070eb
+4	704	7228052938443901	CMakeFiles/Lab11.dir/4.5.cpp.obj	9b23e22f5355c87
+5	109	7228053740938478	CMakeFiles/Lab11.dir/4.10.2.cpp.obj	665fc9c18f8dab98
+14	827	7228053748149953	CMakeFiles/Lab11.dir/4.10.1.cpp.obj	fc74661230acd0e6
+5	808	7228056649255922	CMakeFiles/Lab11.dir/4.10.2.cpp.obj	665fc9c18f8dab98
+4	1132	7228057471288997	CMakeFiles/Lab11.dir/4.10.2.cpp.obj	665fc9c18f8dab98
